@@ -1,0 +1,11 @@
+Default security after adding the spring security dependency
+
+login page : localhost:8080
+logout page: http://localhost:8080/logout
+
+Default username :user
+password: as printed in console
+
+
+------SPRING SECURITY ------
+https://spring.io/blog/2022/02/21/spring-security-without-the-websecurityconfigureradapter
